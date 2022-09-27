@@ -2,7 +2,9 @@
 
 #pragma once
 
-#include "ModuleManager.h"
+#include "CoreMinimal.h"
+#include "Modules/ModuleInterface.h"
+#include "Modules/ModuleManager.h"
 
 DECLARE_LOG_CATEGORY_EXTERN( LogKeshUE4FundamentalTypeWrapperPlugin, Log, All );
 

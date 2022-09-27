@@ -2,6 +2,8 @@
 
 #pragma  once
 
+#include "IKeshUE4FundamentalTypeWrapperPlugin.h"
+
 class FKeshUE4FundamentalTypeWrapperPlugin : public IKeshUE4FundamentalTypeWrapperPlugin
 {
 	/** IModuleInterface implementation */

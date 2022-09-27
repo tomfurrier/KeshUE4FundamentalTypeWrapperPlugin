@@ -1,6 +1,5 @@
 // Copyright 2015 Matthew Chapman, Inc. All Rights Reserved.
 
-#include "KeshUE4FundamentalTypeWrapperPluginPrivatePCH.h"
 #include "KeshUE4FundamentalTypeWrapperPlugin.h"
 
 IMPLEMENT_MODULE( FKeshUE4FundamentalTypeWrapperPlugin, KeshUE4FundamentalTypeWrapperPlugin )
